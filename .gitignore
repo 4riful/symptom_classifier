@@ -1,0 +1,21 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+*.env
+
+# Model artifacts
+models/
+
+# Dataset cache
+data/processed/
+data/raw/
+
+# Logs
+logs/
+venv/
+__pycache__/
+.DS_Store
+*.pyc
