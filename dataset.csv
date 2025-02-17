@@ -1,0 +1,316 @@
+symptoms,department
+"itching, skin rash, nodal skin eruptions, dischromic  patches",Dermatology
+"skin rash, nodal skin eruptions, dischromic  patches",Dermatology
+"itching, nodal skin eruptions, dischromic  patches",Dermatology
+"itching, skin rash, dischromic  patches",Dermatology
+"itching, skin rash, nodal skin eruptions",Dermatology
+"itching, redness, swelling, blistering",Dermatology
+"scaly patches, skin flaking, itching, pain",Dermatology
+"skin rash, nodules, skin discoloration, pain",Dermatology
+"dry skin, cracking, itching, inflammation",Dermatology
+"hives, itching, raised welts, redness",Dermatology
+"dark spots, skin thickening, discoloration, scarring",Dermatology
+"pustules, redness, oiliness, facial swelling",Dermatology
+"itchy scalp, dandruff, hair loss, scalp sores",Dermatology
+"sunburn, redness, peeling skin, pain",Dermatology
+"blisters, fluid-filled lesions, itching, crusting",Dermatology
+"stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain",Gastroenterology
+"stomach pain, ulcers on tongue, vomiting, cough, chest pain",Gastroenterology
+"stomach pain, acidity, vomiting, cough, chest pain",Gastroenterology
+"stomach pain, acidity, ulcers on tongue, cough, chest pain",Gastroenterology
+"stomach pain, acidity, ulcers on tongue, vomiting, chest pain",Gastroenterology
+"stomach pain, acidity, ulcers on tongue, vomiting, cough",Gastroenterology
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",Neurology
+"indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",Neurology
+"acidity, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances",Neurology
+"acidity, indigestion, headache, excessive hunger, stiff neck, depression, irritability, visual disturbances",Neurology
+"acidity, indigestion, headache, blurred and distorted vision, stiff neck, depression, irritability, visual disturbances",Neurology
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, depression, irritability, visual disturbances",Neurology
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, irritability, visual disturbances",Neurology
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, visual disturbances",Neurology
+"acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability",Neurology
+"vomiting, headache, weakness of one body side, altered sensorium",Neurology
+"headache, weakness of one body side, altered sensorium",Neurology
+"vomiting, headache, altered sensorium",Neurology
+"vomiting, headache, weakness of one body side",Neurology
+"severe headache, nausea, sensitivity to light, blurred vision",Neurology
+"numbness, tingling, muscle weakness, difficulty walking",Neurology
+"seizures, confusion, loss of consciousness, muscle spasms",Neurology
+"loss of balance, dizziness, blurred vision, difficulty speaking",Neurology
+"tremors, slow movements, muscle stiffness, balance issues",Neurology
+"memory loss, confusion, difficulty concentrating, personality changes",Neurology
+"weakness on one side of the body, slurred speech, drooping face",Neurology
+"chronic pain, numbness, tingling, burning sensation",Neurology
+"double vision, difficulty focusing, muscle weakness, drooping eyelid",Neurology
+"uncontrolled muscle movements, tics, anxiety, difficulty sleeping",Neurology
+"muscle weakness, loss of reflexes, difficulty breathing, rapid paralysis",Neurology
+"sleep disturbances, vivid dreams, hallucinations, excessive daytime sleepiness",Neurology
+"sharp facial pain, triggered by touch, talking, or chewing",Neurology
+"vertigo, hearing loss, tinnitus, balance issues",Neurology
+"chills, vomiting, high fever, sweating, headache, nausea, muscle pain",General Medicine
+"chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain",General Medicine
+"vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain",General Medicine
+"chills, high fever, sweating, headache, nausea, diarrhoea, muscle pain",General Medicine
+"chills, vomiting, sweating, headache, nausea, diarrhoea, muscle pain",General Medicine
+"chills, vomiting, high fever, headache, nausea, diarrhoea, muscle pain",General Medicine
+"chills, vomiting, high fever, sweating, nausea, diarrhoea, muscle pain",General Medicine
+"chills, vomiting, high fever, sweating, headache, diarrhoea, muscle pain",General Medicine
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, muscle pain, red spots over body",General Medicine
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, red spots over body",General Medicine
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain",General Medicine
+"skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"skin rash, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"skin rash, chills, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"skin rash, chills, joint pain, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"skin rash, chills, joint pain, vomiting, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body",General Medicine
+"fever, chills, body aches, fatigue",General Medicine
+"headache, dizziness, nausea, blurred vision",General Medicine
+"persistent cough, shortness of breath, chest pain, fatigue",General Medicine
+"loss of appetite, weight loss, weakness, night sweats",General Medicine
+"joint pain, swelling, stiffness, fatigue",General Medicine
+"high fever, severe headache, neck stiffness, sensitivity to light",General Medicine
+"abdominal pain, nausea, vomiting, diarrhea",General Medicine
+"skin rash, itching, swelling, redness",General Medicine
+"frequent urination, excessive thirst, fatigue, blurred vision",General Medicine
+"high blood pressure, headache, dizziness, nosebleeds",General Medicine
+"muscle pain, weakness, fatigue, low-grade fever",General Medicine
+"swollen lymph nodes, sore throat, fever, fatigue",General Medicine
+"fatigue, depression, unexplained pain, sleep disturbances",General Medicine
+"chills, vomiting, fatigue, high fever, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, abdominal pain, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, toxic look (typhos), belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, belly pain",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos)",General Medicine
+"chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"chills, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain",General Medicine
+"joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, vomiting, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, vomiting, yellowish skin, dark urine, nausea, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, diarrhoea, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, mild fever, yellowing of eyes, muscle pain",Gastroenterology
+"abdominal pain, bloating, diarrhea, weight loss",Gastroenterology
+"stomach pain, acid reflux, heartburn, nausea",Gastroenterology
+"loss of appetite, jaundice, dark urine, pale stools",Gastroenterology
+"vomiting, severe stomach pain, blood in stool, fever",Gastroenterology
+"nausea, constipation, abdominal cramping, gas",Gastroenterology
+"chronic diarrhea, fatigue, fever, joint pain",Gastroenterology
+"difficulty swallowing, chest pain, regurgitation, chronic cough",Gastroenterology
+"rectal bleeding, mucus in stool, abdominal discomfort, fatigue",Gastroenterology
+"stomach cramps, vomiting, watery diarrhea, fever",Gastroenterology
+"nausea, upper abdominal pain, indigestion, back pain",Gastroenterology
+"excessive gas, bloating, nausea, burping",Gastroenterology
+"unexplained weight loss, persistent vomiting, early satiety",Gastroenterology
+"abdominal tenderness, fever, nausea, vomiting",Gastroenterology
+"chronic cough, chest tightness, exercise-induced wheezing", Pulmonology
+"shortness of breath, coughing fits, blood-streaked sputum", Pulmonology
+"worsening breathlessness, blue lips, confusion", Pulmonology
+"persistent wheezing, high fever, mucus production, weight loss", Pulmonology
+"chronic fatigue, frequent respiratory infections, difficulty sleeping", Pulmonology
+"recurrent pneumonia, rust-colored sputum, rapid heart rate", Pulmonology
+"lung pain, dry cough, joint swelling, shortness of breath", Pulmonology
+"daytime sleepiness, chronic snoring, interrupted breathing at night", Pulmonology
+"excessive sweating, persistent cough, loss of appetite", Pulmonology
+"frequent asthma attacks, anxiety, rapid breathing", Pulmonology
+"chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, fatigue, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, fatigue, weight loss, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, fatigue, weight loss, cough, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, fatigue, weight loss, cough, high fever, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum",Pulmonology
+"chills, fatigue, cough, high fever, breathlessness, sweating, malaise, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, cough, high fever, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, cough, high fever, breathlessness, malaise, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"chills, fatigue, cough, high fever, breathlessness, sweating, phlegm, chest pain, fast heart rate, rusty sputum",Pulmonology
+"shortness of breath, chronic cough, wheezing, chest tightness",Pulmonology
+"fever, chills, cough with phlegm, chest pain",Pulmonology
+"persistent cough, night sweats, weight loss, fatigue",Pulmonology
+"coughing up blood, chest pain, breathlessness, rapid breathing",Pulmonology
+"wheezing, fatigue, shortness of breath, exercise intolerance",Pulmonology
+"blue lips, severe breathlessness, confusion, rapid heartbeat",Pulmonology
+"dry cough, weight loss, shortness of breath, joint pain",Pulmonology
+"persistent chest pain, chronic cough, hoarseness, unintentional weight loss",Pulmonology
+"noisy breathing, snoring, daytime sleepiness, morning headaches",Pulmonology
+"swollen lymph nodes, fever, shortness of breath, chronic cough",Pulmonology
+"rapid breathing, low oxygen levels, confusion, chest pain",Pulmonology
+"breathlessness, wheezing, mucus production, chronic fatigue",Pulmonology
+"frequent respiratory infections, shortness of breath, fatigue",Pulmonology
+"sharp chest pain, breathlessness, cough, rapid pulse",Pulmonology
+"vomiting, breathlessness, sweating, chest pain",Cardiology
+"breathlessness, sweating, chest pain",Cardiology
+"vomiting, sweating, chest pain",Cardiology
+"vomiting, breathlessness, chest pain",Cardiology
+"vomiting, breathlessness, sweating",Cardiology
+"chest pain, shortness of breath, dizziness, nausea",Cardiology
+"chest pain, palpitations, sweating, light-headedness",Cardiology
+"shortness of breath, fatigue, ankle swelling, rapid weight gain",Cardiology
+"chest pain, back pain, jaw pain, nausea",Cardiology
+"shortness of breath, extreme fatigue, fainting, irregular heartbeat",Cardiology
+"dizziness, fainting, low blood pressure, cold extremities",Cardiology
+"chest pain, pain in left arm, nausea, profuse sweating",Cardiology
+"shortness of breath, chest tightness, blue lips, rapid breathing",Cardiology
+"palpitations, chest discomfort, light-headedness, anxiety",Cardiology
+"sudden chest pain, difficulty breathing, rapid pulse, loss of consciousness",Cardiology
+"fatigue, weight gain, cold hands and feet, mood swings",Endocrinology
+"excessive thirst, frequent urination, unexplained weight loss, fatigue",Endocrinology
+"heat intolerance, rapid heartbeat, sweating, weight loss",Endocrinology
+"irregular menstruation, acne, hair thinning, weight gain",Endocrinology
+"depression, fatigue, muscle weakness, low blood pressure",Endocrinology
+"excessive hunger, rapid heartbeat, dizziness, confusion",Endocrinology
+"dry skin, brittle nails, puffy face, slow heart rate",Endocrinology
+"high blood pressure, muscle weakness, weight gain, stretch marks",Endocrinology
+"excessive sweating, enlarged hands and feet, jaw enlargement, joint pain",Endocrinology
+"infertility, decreased libido, fatigue, depression",Endocrinology
+"bone pain, frequent fractures, muscle weakness, kidney stones",Endocrinology
+"increased hair growth, deepening voice, menstrual irregularities",Endocrinology
+"difficulty sleeping, irritability, anxiety, palpitations",Endocrinology
+"frequent infections, delayed wound healing, blurred vision",Endocrinology
+"fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight gain, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight gain, cold hands and feets, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight gain, cold hands and feets, mood swings, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight gain, cold hands and feets, mood swings, lethargy, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, restlessness, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, restlessness, sweating, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, excessive hunger, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, muscle weakness, irritability, abnormal menstruation",Endocrinology
+"muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking",Orthopedics
+"stiff neck, swelling joints, movement stiffness, painful walking",Orthopedics
+"muscle weakness, swelling joints, movement stiffness, painful walking",Orthopedics
+"muscle weakness, stiff neck, movement stiffness, painful walking",Orthopedics
+"muscle weakness, stiff neck, swelling joints, painful walking",Orthopedics
+"muscle weakness, stiff neck, swelling joints, movement stiffness",Orthopedics
+"joint pain, stiffness, swelling, limited range of motion",Orthopedics
+"bone pain, tenderness, fractures, difficulty moving",Orthopedics
+"muscle weakness, cramping, fatigue, difficulty walking",Orthopedics
+"lower back pain, numbness in legs, difficulty standing",Orthopedics
+"pain in shoulder, limited arm movement, swelling",Orthopedics
+"knee pain, swelling, instability, difficulty bending",Orthopedics
+"hip pain, limping, stiffness, difficulty sitting",Orthopedics
+"neck pain, stiffness, headaches, numbness in arms",Orthopedics
+"swollen joints, deformities, reduced mobility, chronic pain",Orthopedics
+"painful walking, foot pain, heel tenderness, inflammation",Orthopedics
+"swelling in extremities, joint pain, warmth, redness",Orthopedics
+"muscle atrophy, loss of strength, difficulty lifting objects",Orthopedics
+"sharp pain, snapping sound, inability to move affected limb",Orthopedics
+"joint pain, stiffness, swelling, decreased range of motion",Orthopedics
+"bone pain, fever, swelling, warmth, redness over affected area",Orthopedics
+"continuous sneezing, shivering, chills, watering from eyes",ENT
+"shivering, chills, watering from eyes",ENT
+"continuous sneezing, chills, watering from eyes",ENT
+"continuous sneezing, shivering, watering from eyes",ENT
+"continuous sneezing, shivering, chills",ENT
+"continuous sneezing, nasal congestion, watery eyes, itchy throat",ENT
+"ear pain, hearing loss, dizziness, ringing in ears",ENT
+"sore throat, difficulty swallowing, hoarseness, fever",ENT
+"sinus pain, nasal congestion, postnasal drip, headache",ENT
+"loss of sense of smell, nasal congestion, headache, facial pain",ENT
+"ear discharge, ear pain, swelling, impaired hearing",ENT
+"enlarged tonsils, difficulty swallowing, snoring, bad breath",ENT
+"hoarseness, voice fatigue, throat pain, vocal cord inflammation",ENT
+"blocked ear, pressure in ear, balance issues, vertigo",ENT
+"frequent nosebleeds, nasal dryness, scabbing, nasal blockage",ENT
+"swollen lymph nodes, throat pain, fever, difficulty breathing",ENT
+"persistent cough, throat irritation, acid reflux, difficulty speaking",ENT
+"ear ringing, hearing sensitivity, anxiety, balance loss",ENT
+"pain behind eyes, sinus congestion, facial tenderness, headaches",ENT
+"severe headache, vision loss, vomiting, neck stiffness, dizziness",Radiology
+"chronic bone pain, visible swelling, difficulty moving, history of fractures",Radiology
+"severe back pain, numbness in legs, bladder incontinence, inability to walk",Radiology
+"chronic cough, coughing up blood, weight loss, persistent chest pain",Radiology
+"pelvic pain, abnormal bleeding, mass detection, infertility issues",Radiology
+"severe flank pain, blood in urine, nausea, painful urination",Radiology
+"persistent headaches, seizures, vision problems, cognitive changes",Radiology
+"abdominal pain, weight loss, jaundice, palpable mass",Radiology
+"severe headache, blurry vision, ringing in ears, fainting", Radiology
+"chronic joint pain, history of fractures, visible swelling", Radiology
+"spinal pain, numbness in legs, impaired mobility", Radiology
+"abdominal mass, weight loss, night sweats, severe back pain", Radiology
+"blood in urine, abdominal cramping, flank pain, high fever", Radiology
+"chronic bone lesions, muscle pain, difficulty moving", Radiology
+"persistent seizures, confusion, vision impairment, dizziness", Radiology
+"abnormal pelvic pain, irregular bleeding, infertility issues", Radiology
+"fatigue, jaundice, pain under ribs, palpable lump", Radiology
+"brain fog, recurrent dizziness, blurred vision, speech difficulty", Radiology
+"high fever, irritability, poor feeding, vomiting, lethargy, seizure risk",Pediatrics
+"severe cough, wheezing, rapid shallow breathing, nasal flaring, fever",Pediatrics
+"widespread rash, itching, fever, swollen lymph nodes, fatigue",Pediatrics
+"vomiting, watery diarrhea, sunken eyes, dry mouth, extreme fatigue",Pediatrics
+"severe ear pain, irritability, high fever, crying at night, ear discharge",Pediatrics
+"failure to thrive, short stature, delayed milestones, low muscle tone",Pediatrics
+"sore throat, difficulty swallowing, fever, swollen lymph nodes in neck",Pediatrics
+"high fever, stiff neck, irritability, severe headache, photophobia",Pediatrics
+"broad nasal bridge, wide mouth, prominent ears, developmental delays, intellectual disability",Pediatrics
+"fatigue, pale skin, shortness of breath, dizziness, cold hands and feet",Hematology
+"prolonged bleeding, frequent nosebleeds, easy bruising, joint swelling, blood in urine",Hematology
+"frequent infections, unexplained weight loss, night sweats, bone pain, swollen lymph nodes",Hematology
+"episodes of pain, swelling in hands and feet, frequent infections, delayed growth, vision problems",Hematology
+"easy or excessive bruising, superficial bleeding into the skin, prolonged bleeding from cuts, blood in urine or stools, fatigue",Hematology
+"fatigue, weakness, shortness of breath, chest pain, headaches, irritability, difficulty concentrating",Hematology
+"spontaneous bleeding, large bruises, unexplained bruising, frequent nosebleeds, blood in stool or urine",Hematology
+"fatigue, weakness, shortness of breath, chest pain, headaches, irritability, difficulty concentrating, jaundice",Hematology
+"abnormal bruising, prolonged bleeding from nosebleeds or small cuts, anemia, blood in urine, excessive sweating at night",Hematology
+"itchiness after warm bath or shower, numbness or tingling in extremities, feeling of fullness in left abdomen, unusual bleeding",Hematology
+"frequent nosebleeds, prolonged bleeding after minor cuts, heavy menstrual bleeding, swollen joints",Hematology
+"fatigue, weight loss, chronic fever, bone pain, night sweats, swelling in armpits or groin",Hematology
+"pale skin, brittle nails, craving for non-food items, hair thinning, fatigue",Hematology
+"painful swelling of arms and legs, sudden episodes of severe pain, delayed growth, vision issues",Hematology
+"chronic low-grade fever, repeated bacterial infections, easy bruising, unexplained anemia",Hematology
+"severe lower back pain, difficulty urinating, numbness in legs, anemia, bone lesions",Hematology
+"swollen lymph nodes, unexplained weight loss, chronic night sweats, chest discomfort",Hematology
+"persistent itching, flushed skin, frequent headaches, enlarged spleen, dizziness after exercise",Hematology
+"blood clots in veins, sudden leg pain, warmth and redness in one leg, shortness of breath",Hematology
+"abnormal pale skin, shortness of breath, chest tightness, irregular heartbeat, rapid fatigue onset",Hematology
+#
+"severe bone pain, chronic swelling, difficulty moving", Radiology
+"persistent chest pain, visible mass, unexplained weight loss", Radiology
+"severe headache, blurred vision, vomiting, cognitive decline", Radiology
+"fractures with abnormal healing, bone lesions, severe pain", Radiology
+"abdominal mass, jaundice, weight loss, palpable lump under ribs", Radiology
+"pelvic pain, irregular menstrual cycle, mass detection", Radiology
+"lower back pain, numbness, difficulty urinating, spinal deformity", Radiology
+"headache with vision issues, dizziness, difficulty speaking", Radiology
+"frequent bone fractures, chronic pain, swelling", Radiology
+"persistent nausea, vomiting, weight loss, abdominal imaging abnormality", Radiology
+"high fever, rapid breathing, lethargy, irritability", Pediatrics
+"severe cough, nasal flaring, wheezing, fever", Pediatrics
+"persistent ear infection, ear discharge, irritability, fever", Pediatrics
+"delayed developmental milestones, muscle weakness, short stature", Pediatrics
+"severe vomiting, dehydration, sunken eyes, lethargy", Pediatrics
+"swollen lymph nodes, widespread rash, fever, itching", Pediatrics
+"failure to gain weight, chronic diarrhea, irritability", Pediatrics
+"photophobia, high fever, stiff neck, headache", Pediatrics
+"cyanosis, breath-holding spells, fainting episodes", Pediatrics
+"abdominal bloating, constipation, vomiting, poor appetite", Pediatrics
+"chest pain radiating to left arm, dizziness, shortness of breath", Cardiology
+"palpitations, fatigue, shortness of breath, swollen ankles", Cardiology
+"severe chest pain, nausea, excessive sweating, rapid pulse", Cardiology
+"lightheadedness, fainting, irregular heartbeat, low blood pressure", Cardiology
+"sharp chest pain, difficulty breathing, heart palpitations", Cardiology
+"blue lips, severe breathlessness, rapid heart rate", Cardiology
+"unexplained fatigue, cold extremities, mood swings, chest tightness", Cardiology
+"sudden cardiac arrest symptoms, dizziness, loss of consciousness", Cardiology
+"rapid breathing, cyanosis, confusion, severe chest pain", Cardiology
+"high blood pressure, nosebleeds, dizziness, headache", Cardiology
