@@ -20,5 +20,4 @@ This project uses ClinicalBERT and other tools to classify symptoms and map them
    python app.py
    ```
 
-## Author
-Your Name
+
